@@ -11,5 +11,3 @@ Os dados utilizados para abordar esse problema são os seguintes:
 * Um dicionário sobre as variáveis pode ser conferido [neste link](https://resources.lendingclub.com/LCDataDictionary.xlsx).
 
 Não houve nenhum pré-processamento nos dados.
-
-Uma pequena análise exploratória é exibida abaixo:
